@@ -14,6 +14,7 @@
 		CE9E8C45220985E800A476AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9E8C43220985E800A476AA /* LaunchScreen.storyboard */; };
 		CE9E8C50220985E800A476AA /* shoppingimageviewverTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9E8C4F220985E800A476AA /* shoppingimageviewverTests.swift */; };
 		CE9E8C5B220985E800A476AA /* shoppingimageviewverUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9E8C5A220985E800A476AA /* shoppingimageviewverUITests.swift */; };
+		CE9E8C6B22098BB800A476AA /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9E8C6A22098BB800A476AA /* MyTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CE9E8C56220985E800A476AA /* shoppingimageviewverUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = shoppingimageviewverUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9E8C5A220985E800A476AA /* shoppingimageviewverUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shoppingimageviewverUITests.swift; sourceTree = "<group>"; };
 		CE9E8C5C220985E800A476AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE9E8C6A22098BB800A476AA /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				CE9E8C3A220985E700A476AA /* AppDelegate.swift */,
 				CE9E8C3C220985E700A476AA /* ViewController.swift */,
 				CE9E8C3E220985E700A476AA /* Main.storyboard */,
+				CE9E8C6A22098BB800A476AA /* MyTableViewController.swift */,
 				CE9E8C41220985E800A476AA /* Assets.xcassets */,
 				CE9E8C43220985E800A476AA /* LaunchScreen.storyboard */,
 				CE9E8C46220985E800A476AA /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				CE9E8C3D220985E700A476AA /* ViewController.swift in Sources */,
 				CE9E8C3B220985E700A476AA /* AppDelegate.swift in Sources */,
+				CE9E8C6B22098BB800A476AA /* MyTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
